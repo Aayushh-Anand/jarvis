@@ -296,7 +296,6 @@ Interested in:
 - Artificial Intelligence
 - AI Engineering
 - Full Stack Development
-- Software Engineering
 - Generative AI
 - Intelligent Systems
 
